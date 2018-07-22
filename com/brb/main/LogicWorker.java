@@ -21,4 +21,9 @@ public class LogicWorker implements StartLearningInterface{
     public void printString(String inputString) {
         System.out.println(inputString);
     }
+
+    @Override
+    public void printVar(String inputString, Integer outputInteger) {
+        System.out.println("Test");
+    }
 }
