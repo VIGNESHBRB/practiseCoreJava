@@ -2,36 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6c5bf51-288e-4621-ad96-a56f5e7ed66a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/com/brb/main/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/brb/main/ThreadClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/brb/main/ThreadClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/brb/main/ThreadClass3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/brb/main/LogicWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/brb/main/LogicWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/brb/main/StartLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/brb/main/StartLearning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/brb/main/StartLearningInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/brb/main/StartLearningInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/brb/main/StartLearningInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/brb/main/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/brb/main/LogicWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/brb/main/StartLearning.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/brb/main/StartLearningInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practiseCoreJava/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practiseCoreJava/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practiseCoreJava/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practiseCoreJava/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practiseCoreJava/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practiseCoreJava/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/practiseCoreJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practiseCoreJava/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/LogicWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/LogicWorker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/StartLearning.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/StartLearning.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/StartLearningInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/StartLearningInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/LogicWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/StartLearning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/StartLearningInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practiseCoreJava/practiseCoreJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practiseCoreJava/practiseCoreJava.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1808519865">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="java" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="555" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="555" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StartLearning.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearning.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,105 +79,50 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>// Override is not mandatory. Its retention policy is SOURCE so this annotation will not be available in class file. It is only used for letting us know that the method is implemented from interface or superclass</find>
+      <find>run()</find>
+      <find>start()</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/com/brb/main/SeparateClass.java" />
-        <option value="$PROJECT_DIR$/com/brb/main/Cat.java" />
-        <option value="$PROJECT_DIR$/com/brb/main/StartLearningInterface.java" />
-        <option value="$PROJECT_DIR$/com/brb/main/LogicWorker.java" />
         <option value="$PROJECT_DIR$/com/brb/main/StartLearning.java" />
+        <option value="$PROJECT_DIR$/com/brb/main/StartLearningInterface.java" />
+        <option value="$PROJECT_DIR$/com/brb/main/ThreadClass.java" />
+        <option value="$PROJECT_DIR$/com/brb/main/ThreadClass2.java" />
+        <option value="$PROJECT_DIR$/com/brb/main/MainClass.java" />
+        <option value="$PROJECT_DIR$/com/brb/main/ThreadClass3.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="28" />
-    <option name="width" value="1600" />
-    <option name="height" value="818" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Code style issuesJava</id>
-          </State>
-          <State>
-            <id>Compiler issuesJava</id>
-          </State>
-          <State>
-            <id>Finalization issuesJava</id>
-          </State>
-          <State>
-            <id>Inheritance issuesJava</id>
-          </State>
-          <State>
-            <id>J2ME issuesJava</id>
-          </State>
-          <State>
-            <id>Java</id>
-          </State>
-          <State>
-            <id>Java 5Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java 9Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>JavaBeans issuesJava</id>
-          </State>
-          <State>
-            <id>Kotlin</id>
-          </State>
-          <State>
-            <id>Numeric issuesJava</id>
-          </State>
-          <State>
-            <id>Performance issuesJava</id>
-          </State>
-          <State>
-            <id>Probable bugsJava</id>
-          </State>
-          <State>
-            <id>Probable bugsKotlin</id>
-          </State>
-          <State>
-            <id>Security issuesJava</id>
-          </State>
-          <State>
-            <id>Serialization issuesJava</id>
-          </State>
-          <State>
-            <id>Verbose or redundant code constructsJava</id>
-          </State>
-        </expanded-state>
-      </profile-state>
-    </entry>
+    <option name="y" value="27" />
+    <option name="width" value="1602" />
+    <option name="height" value="819" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="practiseCoreJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="practiseCoreJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiseCoreJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiseCoreJava" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practiseCoreJava" type="b2602c69:ProjectViewProjectNode" />
@@ -193,10 +173,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532606874617" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -218,564 +201,185 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MainClass">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brb.main.MainClass" />
+      <module name="practiseCoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brb.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="StartLearning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.brb.main.StartLearning" />
       <module name="practiseCoreJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+    <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-    </configuration>
+    <list>
+      <item itemvalue="Application.MainClass" />
+      <item itemvalue="Application.StartLearning" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.StartLearning" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6c5bf51-288e-4621-ad96-a56f5e7ed66a" name="Default" comment="" />
+      <created>1532317634682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532317634682</updated>
+    </task>
+    <servers />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1600" height="818" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3259587" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3259587" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26610824" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28016195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32562277" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291815" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3259587" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearningInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/LogicWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#925#926#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearningInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/LogicWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#925#926#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearningInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/LogicWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#925#926#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearningInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/LogicWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#925#926#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/StartLearning.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearningInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/LogicWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#925#926#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/StartLearning.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearningInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/LogicWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#925#926#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/StartLearning.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearningInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/LogicWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#925#926#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/StartLearning.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearning.class" />
-    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/lang/annotation/Target.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="78" column="18" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/lang/Override.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/lang/Iterable.java" />
+    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/lang/annotation/Target.java" />
+    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/lang/Override.java" />
     <entry file="file://$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/SeparateClass.class" />
-    <entry file="file://$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/LogicWorker.class">
+    <entry file="file://$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/LogicWorker.class" />
+    <entry file="file://$PROJECT_DIR$/com/brb/main/Cat.java" />
+    <entry file="file://$PROJECT_DIR$/com/brb/main/LogicWorker.java" />
+    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/io/InputStream.java" />
+    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/util/PrimitiveIterator.java" />
+    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/util/Map.java" />
+    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/util/List.java" />
+    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/util/Collection.java" />
+    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/util/Collections.java" />
+    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/lang/Math.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/StartLearning.class" />
+    <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearning.java" />
+    <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearningInterface.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/StartLearningInterface.class" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="67">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/Cat.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ThreadGroup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="171">
+          <caret line="921" column="9" selection-start-line="921" selection-start-column="9" selection-end-line="921" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/StartLearningInterface.class">
+    <entry file="file://$PROJECT_DIR$/com/brb/main/ThreadClass1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/LogicWorker.java">
+    <entry file="file://$PROJECT_DIR$/com/brb/main/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="46" lean-forward="true" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#925#926#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearningInterface.java">
+    <entry file="file://$PROJECT_DIR$/com/brb/main/ThreadClass3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        <state relative-caret-position="34">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/io/InputStream.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+        <state relative-caret-position="480">
+          <caret line="721" column="38" selection-start-line="721" selection-start-column="38" selection-end-line="721" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/util/PrimitiveIterator.java">
+    <entry file="file://$PROJECT_DIR$/com/brb/main/ThreadClass2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+        <state relative-caret-position="136">
+          <caret line="8" column="5" selection-start-line="3" selection-start-column="3" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="110" column="37" selection-start-line="110" selection-start-column="37" selection-end-line="110" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2033">
-          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="420" column="30" selection-start-line="420" selection-start-column="23" selection-end-line="420" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/java/jdk1.8.0_162/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="642" column="25" selection-start-line="642" selection-start-column="25" selection-end-line="642" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/StartLearning.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/brb/main/StartLearning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/out/production/practiseCoreJava/com/brb/main/MainClass.class">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
