@@ -12,5 +12,6 @@ public class MainClass {
         t1.start();
         t2.start();
         threadClass3.start();
+        System.out.println("Completed Threads");
     }
 }
