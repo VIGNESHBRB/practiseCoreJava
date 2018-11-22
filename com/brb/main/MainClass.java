@@ -47,5 +47,6 @@ public class MainClass {
         Collections.sort(list1, comparator);
         System.out.println(list1);
 
+        System.out.println("Completed Threads");
     }
 }
